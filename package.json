@@ -1,0 +1,31 @@
+{
+  "name": "mpo-slot-online-pragmatic-play-deposit-ovo-tanpa-potongan",
+  "main": "pg-soft-jp",
+  "theme": "ui",
+  "version": "1.35.0",
+  "description": "LEXUSMPO || Daftar Situs Gacor Mpo Slot Online Pragmatic Play Deposit OVO Tanpa Potongan",
+  "keywords": [
+  "mpo slot pragmatic ",
+    "mpo slot online pragmatic ",
+    "mpo pragmatic deposit ovo",
+    "mpo pragmatic gacor deposit ovo",
+    "mpo pragmatic gampang jp",
+    "mpo pragmatic situs gacor jp",
+    "mpo pragmatic gacor gampang jp",
+    "slot online pragmatic",
+    "mpo online slot pragmatic deposit ovo",
+    "mpo slot pragmatic terlengkap",
+    "pragmatic deposit ovo",
+    "judi mpo pragmatic",
+    "judi mpo slot online pragmatic",
+    "rtp pragmatic deposit ovo"
+  ],
+  "activationCommands": {
+    "atom-workspace": "online-pragmatic-ovo:toggle"
+  },
+  "repository": "https://github.com/ranahlexusmpo/pragmatic-ovo-online.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
